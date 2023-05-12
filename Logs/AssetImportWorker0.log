@@ -165,3 +165,4 @@ Received Import Request.
   path: Assets/Prefabs/3d model.prefab
   artifactKey: Guid(409196f9e2eca41b39105599574a1e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/3d model.prefab using Guid(409196f9e2eca41b39105599574a1e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f542e5688e13c0dbb5157284ce9d2ea') in 1.007156 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
